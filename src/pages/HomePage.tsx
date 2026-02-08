@@ -7,7 +7,7 @@ function HomePage() {
       {/* Hero Section */}
       <section className="hero">
         <h1 className="hero-title">
-          Full-Stack App @hoidanit
+          Full-Stack App ._.
           <span className="hero-highlight"> Laravel + React + MongoDB</span>
         </h1>
         <p className="hero-subtitle">
